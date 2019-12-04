@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">jetpack</string>
+    <string name="default_string">占位</string>
+
 </resources>

@@ -20,4 +20,9 @@
         android:layout_height="wrap_content"
         android:onClick="startActivity3"
         android:text="ObservableField数据单向绑定" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="startActivity4"
+        android:text="事件绑定" />
 </LinearLayout>

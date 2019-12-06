@@ -22,12 +22,18 @@ public class DataBindingHomeActivity extends AppCompatActivity {
         setContentView(R.layout.activity_databindhome);
     }
 
-    public void startActivity(View view){
-        startActivity(new Intent(this,Activity1.class));
+    public void startActivity(View view) {
+        startActivity(new Intent(this, Activity1.class));
     }
-    public void startActivity2(View view){
-        startActivity(new Intent(this,Activity2.class));
-    }  public void startActivity3(View view){
-        startActivity(new Intent(this,Activity3.class));
+
+    public void startActivity2(View view) {
+        startActivity(new Intent(this, Activity2.class));
+    }
+
+    public void startActivity3(View view) {
+        startActivity(new Intent(this, Activity3.class));
+    }
+    public void startActivity4(View view) {
+        startActivity(new Intent(this, Activity4.class));
     }
 }

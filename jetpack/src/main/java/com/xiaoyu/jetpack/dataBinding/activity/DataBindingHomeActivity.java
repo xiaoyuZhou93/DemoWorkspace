@@ -36,4 +36,7 @@ public class DataBindingHomeActivity extends AppCompatActivity {
     public void startActivity4(View view) {
         startActivity(new Intent(this, Activity4.class));
     }
+    public void startActivity5(View view) {
+        startActivity(new Intent(this, Activity5.class));
+    }
 }

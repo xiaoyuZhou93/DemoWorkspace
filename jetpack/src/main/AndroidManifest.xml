@@ -20,6 +20,7 @@
         <activity android:name=".dataBinding.activity.Activity2"/>
         <activity android:name=".dataBinding.activity.Activity3"/>
         <activity android:name=".dataBinding.activity.Activity4"/>
+        <activity android:name=".dataBinding.activity.Activity5"/>
 `
     </application>
 

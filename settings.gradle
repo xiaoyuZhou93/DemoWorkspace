@@ -1,2 +1,2 @@
-include ':scrollOffset'
+include ':scrollOffset', ':jetpack'
 rootProject.name='DemoHome'

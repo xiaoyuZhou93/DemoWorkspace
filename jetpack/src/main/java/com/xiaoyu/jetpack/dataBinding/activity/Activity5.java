@@ -46,9 +46,6 @@ public class Activity5 extends AppCompatActivity {
                 binding2.setBean(bean51);
             }
         });
-
-
-
     }
 
 
